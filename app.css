@@ -1,4 +1,6 @@
 .box1 {
+  display: none; /* 一時的に要素を非表示にできる */
+
   background-color: #FF0000;
   height: 200px;
   width: 200px;
